@@ -1,0 +1,21 @@
+.girisbslk{background-color:gray;}
+.girisbslk h3{line-height:50px; color:khaki;}
+.girisklncico{background-color:gray;}
+form i{margin-top:10px; text-align: center; }
+.girissfrico{background-color:gray; }
+
+@media screen and (max-width:1000px) {
+
+
+
+    .girissfrico{display:none;
+    }
+    .girisklncico{display:none;}
+    .girisklnc{margin-left: 10px;}
+
+    .girissfr{margin-left: 10px;}
+
+
+    }
+
+    
